@@ -13,6 +13,8 @@ title-slide-attributes:
 
 * is designed as a platform to support our alumni’s continuing learning journey on open and reproducible science - from knowledge acquisition, to real-word action, and then impact.
 
+---
+
 ## Champion's journey {.center}
 
 ::: {layout-ncol=5}
@@ -29,11 +31,41 @@ title-slide-attributes:
 
 :::
 
+---
+
 ## As an Oxford iHealth Champion, you benefit from: {.center}
 
-## Continued mentorship and technical support as you endeavour through your Champion's journey towards earning your Action Badge and your Impact Badge {.center}
+---
 
-## Continued membership to Oxford iHealth's [GitHub organisational account](https://github.com/OxfordIHTM) {.center}
+## {.center}
+
+::: {.column width="40%"}
+
+![](images/ihealth_champions.png)
+
+:::
+
+::: {.column width="60%"}
+
+### Continued mentorship and technical support as you endeavour through your Champion's journey towards earning your Action Badge and your Impact Badge
+
+:::
+
+---
+
+## {.center}
+
+::: {.column width="60%"}
+
+### Continued membership to Oxford iHealth's [GitHub organisational account](https://github.com/OxfordIHTM) which affords you access to some educational account benefits
+
+:::
+
+::: {.column width="40%"}
+
+![](https://octodex.github.com/images/labtocat.png)
+
+:::
 
 ::: {.notes}
 
@@ -41,7 +73,21 @@ This will be particularly helpful beyond your time as a student in Oxford as thi
 
 :::
 
-## Access to IHTM's compute server aimed as a shared computing resource for IHTM alumni/iHealth Champions {.center}
+---
+
+## {.center}
+
+::: {.column width="40%"}
+
+![](images/orchid_machine.jpeg)
+
+:::
+
+::: {.column width="60%"}
+
+### Access to IHTM's compute server aimed as a shared computing resource for IHTM alumni/iHealth Champions for computationally-intensive and/or requiring use of large language models
+
+:::
 
 ::: {.notes}
 
@@ -49,7 +95,21 @@ We envision this as a shared resource for projects/action plans that are computa
 
 :::
 
-## Invitation to join Oxford iHealth's community chat/forum via [Zulip](https://oxford-ihealth.zulipchat.com/) {.center}
+---
+
+## {.center}
+
+::: {.column width="60%"}
+
+### Invitation to join Oxford iHealth's community chat/forum via [Zulip](https://oxford-ihealth.zulipchat.com/)
+
+:::
+
+::: {.column width="40%"}
+
+![](images/zulip-icon-512x512.png)
+
+:::
 
 ::: {.notes}
 
@@ -59,9 +119,31 @@ If you are interested in joining, please let us know so we can send you an invit
 
 :::
 
-## What can I do? {.center}
+---
 
-This all depends on you and the value that you want to gain from your actions
+## What can you do? {.center}
+
+---
+
+## {.center}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+![](images/action_badge.png)
+
+:::
+
+::: {.column width="60%"}
+
+### This all depends on you and the value that you want to gain from your actions
+
+::: 
+
+::::
+
+---
 
 ## What is your passion project? {.center}
 
@@ -87,11 +169,17 @@ To get from your Knowledge badge to Actions badge, we just need something writte
 
 ## Giving back {.center}
 
+::: {.column width="60%"}
+
 Think of a culminating activity that allows you to share and give back what you've learned and experienced on your journey.
 
-::: {.notes}
-
 This can be one or a combination of many things: publication, book, blog post, a talk/seminar, a keynote speech, a launch event.
+
+:::
+
+::: {.column width="40%"}
+
+![](images/impact_badge.png)
 
 :::
 
