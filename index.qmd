@@ -1,0 +1,109 @@
+---
+title: "Champions Onboarding"
+subtitle: "Oxford iHealth"
+title-slide-attributes: 
+  data-background-color: "#002147"
+---
+
+## Champions Programme
+
+* aims to ensure and engender inclusivity and cooperation in science
+
+* is for alumni of the MSc in International Health and Tropical Medicine and is specifically aimed for those who have taken the module on Open and Reproducible Science in R.
+
+* is designed as a platform to support our alumni’s continuing learning journey on open and reproducible science - from knowledge acquisition, to real-word action, and then impact.
+
+## Champion's journey {.center}
+
+::: {layout-ncol=5}
+
+![Knowledge](images/knowledge_badge.png)
+
+![Champion](images/champion_alt_badge.png)
+
+![Action](images/action_badge.png)
+
+![Impact](images/impact_badge.png)
+
+![Legend](images/legend_badge.png)
+
+:::
+
+## As an Oxford iHealth Champion, you benefit from: {.center}
+
+## Continued mentorship and technical support as you endeavour through your Champion's journey towards earning your Action Badge and your Impact Badge {.center}
+
+## Continued membership to Oxford iHealth's [GitHub organisational account](https://github.com/OxfordIHTM) {.center}
+
+::: {.notes}
+
+This will be particularly helpful beyond your time as a student in Oxford as this affords you access to some educational account benefits such as some compute time credits for GitHub Actions, continuous integration/continuous development, and workflow automation. This will particularly be important if you are interested in trying out IHTM's compute server (see next point)
+
+:::
+
+## Access to IHTM's compute server aimed as a shared computing resource for IHTM alumni/iHealth Champions {.center}
+
+::: {.notes}
+
+We envision this as a shared resource for projects/action plans that are computationally-intensive and/or requiring use of large language models (LLMs) for inference and some model training
+
+:::
+
+## Invitation to join Oxford iHealth's community chat/forum via [Zulip](https://oxford-ihealth.zulipchat.com/) {.center}
+
+::: {.notes}
+
+You can keep up-to-date with community activities, seminars, and learning resources.
+
+If you are interested in joining, please let us know so we can send you an invite to the group.
+
+:::
+
+## What can I do? {.center}
+
+This all depends on you and the value that you want to gain from your actions
+
+## What is your passion project? {.center}
+
+::: {.notes}
+
+Do you have an idea or a task/activity that you've always wanted to pursue? Something that is personal or something professional related to work or both?
+
+Any idea is possible. It doesn't have to be directly related to data or anything computational as we know a lot of things have and will involve some sort of data and/or computations.
+
+Let's discuss those and see what data and/or computational techniques and resources can contribute to your idea.
+
+:::
+
+## Choose your path. It's the journey, not the destination! {.center}
+
+::: {.notes}
+
+Your current context and circumstances influence what you think and feel you are able to do in your journey. And as your context and circumstances change over time, the way you want to approach the journey will change.
+
+To get from your Knowledge badge to Actions badge, we just need something written of your current idea/s and the kinds of actions you plan to take towards realising this/these.
+
+:::
+
+## Giving back {.center}
+
+Think of a culminating activity that allows you to share and give back what you've learned and experienced on your journey.
+
+::: {.notes}
+
+This can be one or a combination of many things: publication, book, blog post, a talk/seminar, a keynote speech, a launch event.
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+

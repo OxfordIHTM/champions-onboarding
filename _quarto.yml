@@ -1,0 +1,18 @@
+project:
+  title: "champions-onboarding"
+  output-dir: _slides
+
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    logo: images/ihealth_base_pos_square.png
+    css: styles.css
+    footer: "[Oxford iHealth](https://oxford-ihtm.io)"
+
+# author:
+#   name: Ernest Guevarra
+#   email: ernest@oxford-ihtm.io
+#   affiliation: University of Oxford
