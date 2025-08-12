@@ -1,6 +1,8 @@
 ---
 title: "Champions Onboarding"
 subtitle: "Oxford iHealth"
+date: last-modified
+date-format: "DD MMMM YYYY"
 title-slide-attributes: 
   data-background-color: "#002147"
 ---
