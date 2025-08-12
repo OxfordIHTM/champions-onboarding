@@ -1,6 +1,8 @@
 # Oxford iHealth Champions Onboarding <img src="images/ihealth_base_pos_square.png" align="right" height="200px" />
 
 <!-- badges: start -->
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+![version](https://img.shields.io/badge/version-0.0.1.2025-yellow)
 ![License for code](https://img.shields.io/badge/license_for_code-GPL3.0-blue)
 ![License for text](https://img.shields.io/badge/license_for_writing-CC_BY_4.0-blue)
 [![Quarto publish](https://github.com/OxfordIHTM/champions-onboarding/actions/workflows/publish.yml/badge.svg)](https://github.com/OxfordIHTM/champions-onboarding/actions/workflows/publish.yml)
