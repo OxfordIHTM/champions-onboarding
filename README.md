@@ -6,6 +6,7 @@
 ![License for code](https://img.shields.io/badge/license_for_code-GPL3.0-blue)
 ![License for text](https://img.shields.io/badge/license_for_writing-CC_BY_4.0-blue)
 [![Quarto publish](https://github.com/OxfordIHTM/champions-onboarding/actions/workflows/publish.yml/badge.svg)](https://github.com/OxfordIHTM/champions-onboarding/actions/workflows/publish.yml)
+[![DOI](https://zenodo.org/badge/1035772785.svg)](https://doi.org/10.5281/zenodo.16810921)
 <!-- badges: end -->
 
 The [Oxford iHealth Champions Programme](https://oxford-ihtm.io/champions/) aims to champion and support our community members in their journey towards the practice of open and reproducible science. In turn, our members become champions - advocates of open and reproducible science in their own contexts.

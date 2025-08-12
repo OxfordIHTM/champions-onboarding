@@ -14,7 +14,7 @@ preferred-citation:
     - name: "Oxford iHealth"
   title: "Oxford iHealth Champions Onboarding"
   year: 2025
-  doi: 
+  doi: 10.5281/zenodo.16810922
 title: "Oxford iHealth Champions Onboarding"
 repository-code: https://github.com/OxfordIHTM/champions-onboarding
 license: CC-BY-4.0
