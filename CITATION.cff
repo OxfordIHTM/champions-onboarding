@@ -1,0 +1,22 @@
+authors:
+  - family-names: Guevarra
+    given-names: Ernest
+    orcid: https://orcid.org/0000-0002-4887-4415
+  - name: "Oxford iHealth"
+cff-version: 1.2.0
+message: "If you use the software in this repository, please cite both the slide deck from preferred-citation and the software itself."
+preferred-citation:
+  type: presentation
+  authors:
+    - family-names: Guevarra
+      given-names: Ernest
+      orcid: https://orcid.org/0000-0002-4887-4415
+    - name: "Oxford iHealth"
+  title: "Oxford iHealth Champions Onboarding"
+  year: 2025
+  doi: 
+title: "Oxford iHealth Champions Onboarding"
+repository-code: https://github.com/OxfordIHTM/champions-onboarding
+license: CC-BY-4.0
+date-released: 2025-08-12
+version: 0.0.1.2025
